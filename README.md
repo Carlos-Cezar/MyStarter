@@ -16,7 +16,7 @@ Gulp - SASS - Bootstrap
 
 ## File Architecture
 
-sass/
+sass/<br/>
 |
 |– base/
 |   |– _reset.scss       # Reset/normalize
